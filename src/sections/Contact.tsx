@@ -10,7 +10,7 @@ const Contact: React.FC = () => {
 
   const sendWhatsApp = () => {
     const text = `Hi Puji,%0AName: ${name}%0AEmail: ${email}%0AMessage: ${message}`;
-    window.open(`https://wa.me/6289563690722?text=${text}`, "_blank");
+    window.open(`https://wa.me/62895636907227?text=${text}`, "_blank");
   };
 
   return (
