@@ -78,7 +78,7 @@ const Contact: React.FC = () => {
               <Mail className="text-indigo-600" size={22} /> baratapuji@gmail.com
             </div>
             <div className="flex items-center gap-4">
-              <Phone className="text-indigo-600" size={22} /> 0895 6369 0722
+              <Phone className="text-indigo-600" size={22} /> 0895 6369 07227
             </div>
             <div className="flex items-center gap-4">
               <MapPin className="text-indigo-600" size={22} /> Kotabumi, Lampung, Indonesia
